@@ -5,7 +5,7 @@ The source of the digitised texts is:
 Chinese Text Project, by Dr. Donald Sturgeon https://ctext.org
 Please note, that the texts are licenced by Donald Sturgeon for personal and academic use only.
 
-If you use these corpora for academic purposes, and wish to specify the origin of the corpus, the  please cite Chinese Text Project as the source of the digitized text and Mariana Zorkina https://uzh.academia.edu/MarianaZorkina as the creator of the tagged versions. If there are publications associated with the corpora, they will be listed below.
+If you use these corpora for academic purposes and wish to specify the origin of the corpus, please cite Chinese Text Project as the source of the digitized texts and Mariana Zorkina https://uzh.academia.edu/MarianaZorkina as the creator of the tagged versions. If there are publications associated with the corpora, they will be listed below.
 
 Peiwenzhai yongwushi xuan 佩文齋詠物詩選: 
 
