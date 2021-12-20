@@ -26,5 +26,6 @@ Changes made:
   - All commentaries removed for analysis
   - There were many cases where "□" appears in a poem. When it was a result of a mistake, a character was inserted. However, there are still 280 cases where these indicate loss in text, often indicating whole blank lines. These were kept
   - There are ca. 1390 casese where author name is inserted after a line in a poem composed by a group of people. This might influence the analysis
+  - There are at least 15 places where no characters could be inserted
 
 
