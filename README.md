@@ -2,7 +2,7 @@
 
 If you use these corpora for academic purposes and wish to specify the origin of the corpus, please cite Chinese Text Project as the source of the digitized texts and Mariana Zorkina https://uzh.academia.edu/MarianaZorkina as the creator of the tagged versions. If there are publications associated with the corpora, they will be listed below.
 
-##Peiwenzhai yongwushi xuan 佩文齋詠物詩選:
+## Peiwenzhai yongwushi xuan 佩文齋詠物詩選:
 
 Tagged according to TEI P5 standards.
 
@@ -14,7 +14,7 @@ Related publication:
 
 Mariana Zorkina; Describing Objects in Tang Dynasty Poetic Language: A Study Based on Word Embeddings. Journal of Chinese Literature and Culture 1 November 2018; 5 (2): 250–275. doi: https://doi.org/10.1215/23290048-7256989
 
-##QTS
+## QTS
 The original source of the digitized text is Chinese Text Project.
 The file used as base is from this repository https://github.com/snowtraces/poetry-source/tree/master/%E5%85%A8%E5%94%90%E8%AF%97/CText_JSON_cht
 
