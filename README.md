@@ -21,7 +21,7 @@ The file used as base is from this repository https://github.com/snowtraces/poet
 Changes made:
 - all files combined into one
 - QTS_JSON_CTEXT_clean_punc_no_comm.json
-  - Rare characters that were displayed in the original files with alphanumeric codes are replaced with characters
+  - Rare characters that were displayed in the original files with alphanumeric codes are replaced with characters (based on sou-yun.cn and 全唐詩分析系統 entries)
   - Punctuation is unified
   - All commentaries removed for analysis
   - There were many cases where "□" appears in a poem. When it was a result of a mistake, a character was inserted. However, there are still 280 cases where these indicate loss in text, often indicating whole blank lines. These were kept
