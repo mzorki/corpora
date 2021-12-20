@@ -14,7 +14,7 @@ Related publication:
 
 Mariana Zorkina; Describing Objects in Tang Dynasty Poetic Language: A Study Based on Word Embeddings. Journal of Chinese Literature and Culture 1 November 2018; 5 (2): 250–275. doi: https://doi.org/10.1215/23290048-7256989
 
-## QTS
+## QTS 全唐詩
 The original source of the digitized text is Chinese Text Project.
 The file used as base is from this repository https://github.com/snowtraces/poetry-source/tree/master/%E5%85%A8%E5%94%90%E8%AF%97/CText_JSON_cht
 
